@@ -6,4 +6,4 @@ All examples have a readme inside it's root folder. The actual example is locate
 
 - [default](https://github.com/eiedouno/shuttlescript/tree/main/examples/default)
 - [Multiline Text](https://github.com/eiedouno/shuttlescript/tree/main/examples/multiline-text)
-- [Parameter Handling](https://github.com/eiedouno/shuttlescript/tree/main/example/param/)
+- [Parameter Handling](https://github.com/eiedouno/shuttlescript/tree/main/examples/param/)
