@@ -14,4 +14,4 @@ You can find instructions [here](https://github.com/eiedouno/shuttle/wiki)
 
 ## Table of Contents
 
-- [Examples](https://github.com/eiedouno/shuttle/tree/main/examples/)
+- [Examples](https://github.com/eiedouno/shuttlescript/tree/main/examples/)

@@ -4,5 +4,5 @@ All examples have a readme inside it's root folder. The actual example is locate
 
 ## Table of Contents
 
-- [default](https://github.com/eiedouno/shuttle/tree/main/examples/default)
-- [multiline-text](https://github.com/eiedouno/shuttle/tree/main/examples/multiline-text)
+- [default](https://github.com/eiedouno/shuttlescript/tree/main/examples/default)
+- [multiline-text](https://github.com/eiedouno/shuttlescript/tree/main/examples/multiline-text)
