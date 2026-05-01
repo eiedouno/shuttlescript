@@ -6,7 +6,7 @@
 
 ## Documentation
 
-More information can be found inside the [documentation](https://github.com/eiedono/shuttlescript/wiki)
+More information can be found inside the [documentation](https://github.com/eiedono/shuttlescript/wiki).
 
 ## Looking to use shuttle?
 
