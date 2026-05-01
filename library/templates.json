@@ -1,0 +1,18 @@
+{
+    "multiline-text": {
+	"src/main.bash": {
+	    "source": "https://raw.githubusercontent.com/eiedouno/shuttlescript/main/examples/multiline-text/template/src/main.bash"
+	},
+	"lib/texts/helloworld.bash": {
+	    "source": "https://raw.githubusercontent.com/eiedouno/shuttlescript/main/examples/multiline-text/template/lib/texts/helloworld.bash"
+	}
+    },
+    "param": {
+	"src/main.bash": {
+	    "source": "https://raw.githubusercontent.com/eiedouno/shuttlescript/main/examples/param/template/src/main.bash"
+	},
+	"src/param_h.bash": {
+	    "source": "https://raw.githubusercontent.com/eiedouno/shuttlescript/main/examples/param/template/src/param_h.bash"
+	}
+    }
+}
