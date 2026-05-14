@@ -1,5 +1,5 @@
 main() {
-    # If $1 (input) == "-" and then anything after.
+    # If $1 (input) == "--" and then anything after.
     if [[ "$1" == --* ]]; then
 
 	# Con == everything after "--" in the input ($1)
