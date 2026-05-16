@@ -1,24 +1,26 @@
 main() {
-    # If $1 (input) == "--" and then anything after.
-    if [[ "$1" == --* ]]; then
+    for f in $@; do
+	# If $1 (input) == "--" and then anything after.
+	if [[ "$f" == --* ]]; then
 
-	# Con == everything after "--" in the input ($1)
-	con="${1#--}"
-	param_h2
+	    # Con == everything after "--" in the input ($1)
+	    con="${f#--}"
+	    param_h2
 
-    elif [[ "$1" == -* ]]; then
+	elif [[ "$f" == -* ]]; then
 
-	# Con == everything after "-" in the input ($1)
-	con="${1#-}"
-	param_h1
+	    # Con == everything after "-" in the input ($1)
+	    con="${f#-}"
+	    param_h1
 
-    else
+	else
 
 	# If $1 (input) isn't
-	printf "\e[31m\e[1mUnknown command '$1'\n\e[0m"
+	printf "\e[31m\e[1mUnknown command '$f'\n\e[0m"
 	exit 1
 
-    fi
+	fi
+    done
 }
 
 param_h1() {
