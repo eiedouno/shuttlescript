@@ -1,4 +1,5 @@
 {
     "shuttle": "https://github.com/eiedouno/shuttle",
-    "param": "https://github.com/eiedouno/param"
+    "param": "https://github.com/eiedouno/param",
+    "bashtui": "https://github.com/eiedouno/bashtui"
 }
