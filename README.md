@@ -6,11 +6,11 @@
 
 ## Documentation
 
-More information can be found inside the [documentation](https://github.com/eiedono/shuttlescript/wiki).
+More information can be found inside the [shuttle developer documentation](https://eiedouno.github.io/shuttle/developing).
 
 ## Looking to use shuttle?
 
-You can find instructions [here](https://github.com/eiedouno/shuttle/wiki)
+You can find instructions [here](https://eiedouno.github.io/shuttle/startup)
 
 ## Table of Contents
 
